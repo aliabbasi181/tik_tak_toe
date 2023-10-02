@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912534310135",
+    "project_id": "tik-tak-toe-f83f9",
+    "storage_bucket": "tik-tak-toe-f83f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912534310135:android:252fc04431216ec10357f2",
+        "android_client_info": {
+          "package_name": "com.example.tik_tak_toe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlamlRaXmI8PnKtS-PGnBJbJbnCfMI_KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
